@@ -1,1 +1,2 @@
-# Netflix-Clone
+"🎬 Netflix Clone –
+A responsive and visually appealing Netflix UI replica built using HTML and CSS. This project recreates the homepage of Netflix with a sleek design, smooth hover effects, and a fully responsive layout that adapts to different screen sizes. It includes a hero section, movie thumbnails, a navigation bar, and a footer. This project is perfect for beginners looking to enhance their frontend skills by working with real-world UI designs. No JavaScript or backend functionality—purely HTML and CSS. 🚀 Feel free to fork, customize, and improve! Contributions are welcome. ⭐ Happy coding!"
